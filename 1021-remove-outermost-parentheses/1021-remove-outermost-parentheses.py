@@ -8,12 +8,14 @@ class Solution:
                 if bal==0:
                     start=i
                 bal+=1    
-            else:
-                if char==")":
-                    bal-=1
-                    if bal==0:
-                        result.append(s[start+1:i])
+            elif char==")":
+                 bal-=1
+                 if bal==0:
+                      result.append(s[start+1:i])
         return "".join(result)
+
+                   
+                
 
 
         
