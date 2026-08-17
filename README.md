@@ -41,4 +41,16 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Dannyyy7/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Dannyyy7/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Dannyyy7/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
