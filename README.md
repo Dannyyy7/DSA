@@ -20,6 +20,7 @@
 | [0205-isomorphic-strings](https://github.com/Dannyyy7/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Dannyyy7/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Dannyyy7/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Dannyyy7/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Dannyyy7/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Dannyyy7/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Dannyyy7/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Dannyyy7/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Dannyyy7/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Dannyyy7/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Dannyyy7/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
@@ -73,4 +76,16 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Dannyyy7/DSA/tree/main/0796-rotate-string/) | Easy |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Dannyyy7/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Dannyyy7/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Dannyyy7/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
