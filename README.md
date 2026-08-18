@@ -48,6 +48,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Dannyyy7/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Dannyyy7/DSA/tree/main/0205-isomorphic-strings/) | Easy |
+| [0796-rotate-string](https://github.com/Dannyyy7/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Dannyyy7/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 | Problem Name | Difficulty |
@@ -61,4 +62,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Dannyyy7/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Dannyyy7/DSA/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
