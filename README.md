@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Dannyyy7/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Dannyyy7/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dannyyy7/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Dannyyy7/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Dannyyy7/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Dannyyy7/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Dannyyy7/DSA/tree/main/0169-majority-element/) | Easy |
@@ -116,9 +117,14 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Dannyyy7/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Dannyyy7/DSA/tree/main/0169-majority-element/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Dannyyy7/DSA/tree/main/0169-majority-element/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Dannyyy7/DSA/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
