@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Dannyyy7/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Dannyyy7/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dannyyy7/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Dannyyy7/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Dannyyy7/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Dannyyy7/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dannyyy7/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Dannyyy7/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Dannyyy7/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dannyyy7/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Dannyyy7/DSA/tree/master/0189-rotate-array) |
@@ -48,6 +50,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Dannyyy7/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Dannyyy7/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Dannyyy7/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -98,4 +101,12 @@
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dannyyy7/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Dannyyy7/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Dannyyy7/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Dannyyy7/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
