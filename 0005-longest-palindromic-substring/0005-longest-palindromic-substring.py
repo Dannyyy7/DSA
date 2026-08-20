@@ -5,7 +5,9 @@ class Solution:
                 left-=1
                 right+=1
             return s[left+1 : right]
-        if not s or  len(s)==1:
+        if not s :
+            return 0
+        if  len(s)==1:
             return s
         longest=""
         for i in range (len(s)):
