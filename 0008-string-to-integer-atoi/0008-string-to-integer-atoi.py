@@ -1,6 +1,7 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
-        INT_MIN,INT_MAX= -2**31,2**31-1
+        INT_MIN= -2**31
+        INT_MAX=2**31-1
     
         s= s.lstrip()
         if not s:
