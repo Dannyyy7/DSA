@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Dannyyy7/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dannyyy7/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Dannyyy7/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Dannyyy7/DSA/tree/master/0189-rotate-array) |
