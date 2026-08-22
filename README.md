@@ -58,6 +58,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Dannyyy7/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Dannyyy7/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dannyyy7/DSA/tree/master/0283-move-zeroes) |
+| [0481-magical-string](https://github.com/Dannyyy7/DSA/tree/master/0481-magical-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Dannyyy7/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dannyyy7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -103,6 +104,7 @@
 | [0205-isomorphic-strings](https://github.com/Dannyyy7/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Dannyyy7/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Dannyyy7/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0481-magical-string](https://github.com/Dannyyy7/DSA/tree/master/0481-magical-string) |
 | [0678-valid-parenthesis-string](https://github.com/Dannyyy7/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Dannyyy7/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Dannyyy7/DSA/tree/master/1021-remove-outermost-parentheses) |
