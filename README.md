@@ -270,5 +270,6 @@
 | [0182-duplicate-emails](https://github.com/Dannyyy7/DSA/tree/main/0182-duplicate-emails/) | Easy |
 | [0184-department-highest-salary](https://github.com/Dannyyy7/DSA/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/Dannyyy7/DSA/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0584-find-customer-referee](https://github.com/Dannyyy7/DSA/tree/main/0584-find-customer-referee/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Dannyyy7/DSA/tree/main/0627-swap-sex-of-employees/) | Easy |
 <!---LeetCode Topics End-->
