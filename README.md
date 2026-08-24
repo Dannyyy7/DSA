@@ -277,4 +277,5 @@
 | [0185-department-top-three-salaries](https://github.com/Dannyyy7/DSA/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0584-find-customer-referee](https://github.com/Dannyyy7/DSA/tree/main/0584-find-customer-referee/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Dannyyy7/DSA/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Dannyyy7/DSA/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 <!---LeetCode Topics End-->
