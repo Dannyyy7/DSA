@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Dannyyy7/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Dannyyy7/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dannyyy7/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Dannyyy7/DSA/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Dannyyy7/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Dannyyy7/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Dannyyy7/DSA/tree/main/0048-rotate-image/) | Medium |
@@ -51,6 +52,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dannyyy7/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dannyyy7/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Dannyyy7/DSA/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Dannyyy7/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Dannyyy7/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Dannyyy7/DSA/tree/master/0075-sort-colors) |
