@@ -73,6 +73,7 @@
 | [0012-integer-to-roman](https://github.com/Dannyyy7/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Dannyyy7/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Dannyyy7/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Dannyyy7/DSA/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Dannyyy7/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
 ## Binary Search
@@ -236,6 +237,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dannyyy7/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/Dannyyy7/DSA/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Dannyyy7/DSA/tree/master/0206-reverse-linked-list) |
 ## Greedy
 | Problem Name | Difficulty |
