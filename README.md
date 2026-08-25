@@ -31,6 +31,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Dannyyy7/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Dannyyy7/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Dannyyy7/DSA/tree/master/0904-fruit-into-baskets) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dannyyy7/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1528-shuffle-string](https://github.com/Dannyyy7/DSA/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dannyyy7/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dannyyy7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -94,6 +95,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dannyyy7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/Dannyyy7/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dannyyy7/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
