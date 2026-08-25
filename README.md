@@ -20,6 +20,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Dannyyy7/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Dannyyy7/DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Dannyyy7/DSA/tree/master/0139-word-break) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dannyyy7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Dannyyy7/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Dannyyy7/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@
 | [0141-linked-list-cycle](https://github.com/Dannyyy7/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Dannyyy7/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Dannyyy7/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dannyyy7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Dannyyy7/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dannyyy7/DSA/tree/master/0283-move-zeroes) |
 | [0481-magical-string](https://github.com/Dannyyy7/DSA/tree/master/0481-magical-string) |
@@ -84,6 +86,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dannyyy7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
