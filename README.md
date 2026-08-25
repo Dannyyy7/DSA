@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/Dannyyy7/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Dannyyy7/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Dannyyy7/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Dannyyy7/DSA/tree/master/0904-fruit-into-baskets) |
 | [1528-shuffle-string](https://github.com/Dannyyy7/DSA/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dannyyy7/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dannyyy7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -47,6 +48,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Dannyyy7/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Dannyyy7/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Dannyyy7/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Dannyyy7/DSA/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Dannyyy7/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Two Pointers
 |  |
@@ -223,6 +225,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dannyyy7/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dannyyy7/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/Dannyyy7/DSA/tree/master/0904-fruit-into-baskets) |
 ## Backtracking
 |  |
 | ------- |
