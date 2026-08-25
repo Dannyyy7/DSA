@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dannyyy7/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dannyyy7/DSA/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Dannyyy7/DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dannyyy7/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Dannyyy7/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Dannyyy7/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Dannyyy7/DSA/tree/main/0053-maximum-subarray/) | Medium |
@@ -86,6 +87,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dannyyy7/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dannyyy7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
