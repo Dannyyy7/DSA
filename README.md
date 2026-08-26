@@ -26,6 +26,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dannyyy7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Dannyyy7/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Dannyyy7/DSA/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Dannyyy7/DSA/tree/main/0198-house-robber/) | Medium |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dannyyy7/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Dannyyy7/DSA/tree/master/0485-max-consecutive-ones) |
@@ -215,6 +216,7 @@
 | [0070-climbing-stairs](https://github.com/Dannyyy7/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dannyyy7/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Dannyyy7/DSA/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/Dannyyy7/DSA/tree/main/0198-house-robber/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Dannyyy7/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
