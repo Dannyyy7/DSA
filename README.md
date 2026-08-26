@@ -87,6 +87,7 @@
 | [0013-roman-to-integer](https://github.com/Dannyyy7/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Dannyyy7/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Dannyyy7/DSA/tree/main/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/Dannyyy7/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Dannyyy7/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
 ## Binary Search
@@ -211,6 +212,7 @@
 | [0022-generate-parentheses](https://github.com/Dannyyy7/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Dannyyy7/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Dannyyy7/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/Dannyyy7/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dannyyy7/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Dannyyy7/DSA/tree/master/0139-word-break) |
 | [0678-valid-parenthesis-string](https://github.com/Dannyyy7/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -286,6 +288,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Dannyyy7/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Dannyyy7/DSA/tree/master/0139-word-break) |
 ## Brute-Force Search
 | Problem Name | Difficulty |
