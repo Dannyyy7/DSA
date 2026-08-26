@@ -54,6 +54,7 @@
 | [0205-isomorphic-strings](https://github.com/Dannyyy7/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Dannyyy7/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dannyyy7/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Dannyyy7/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Dannyyy7/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Dannyyy7/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -131,6 +132,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Dannyyy7/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Dannyyy7/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Dannyyy7/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Dannyyy7/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Dannyyy7/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Dannyyy7/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/Dannyyy7/DSA/tree/master/0481-magical-string) |
@@ -177,6 +179,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Dannyyy7/DSA/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Dannyyy7/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Dannyyy7/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Dannyyy7/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Linked List
@@ -307,4 +310,8 @@
 | [0584-find-customer-referee](https://github.com/Dannyyy7/DSA/tree/main/0584-find-customer-referee/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Dannyyy7/DSA/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Dannyyy7/DSA/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Dannyyy7/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
