@@ -176,6 +176,7 @@
 | [0020-valid-parentheses](https://github.com/Dannyyy7/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Dannyyy7/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Dannyyy7/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0155-min-stack](https://github.com/Dannyyy7/DSA/tree/main/0155-min-stack/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Dannyyy7/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Dannyyy7/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Dannyyy7/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -388,4 +389,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dannyyy7/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Dannyyy7/DSA/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
