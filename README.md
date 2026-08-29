@@ -12,6 +12,7 @@
 | [0031-next-permutation](https://github.com/Dannyyy7/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dannyyy7/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dannyyy7/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/Dannyyy7/DSA/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Dannyyy7/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Dannyyy7/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Dannyyy7/DSA/tree/main/0049-group-anagrams/) | Medium |
@@ -49,6 +50,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dannyyy7/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Dannyyy7/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Dannyyy7/DSA/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Dannyyy7/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Dannyyy7/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Dannyyy7/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Dannyyy7/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -272,6 +274,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Dannyyy7/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Dannyyy7/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Dannyyy7/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Dannyyy7/DSA/tree/master/0073-set-matrix-zeroes) |
