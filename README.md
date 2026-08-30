@@ -195,6 +195,7 @@
 | [0853-car-fleet](https://github.com/Dannyyy7/DSA/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/Dannyyy7/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dannyyy7/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/Dannyyy7/DSA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +247,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Dannyyy7/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Dannyyy7/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Dannyyy7/DSA/tree/master/1669-merge-in-between-linked-lists) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Dannyyy7/DSA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,6 +330,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Dannyyy7/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/Dannyyy7/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Dannyyy7/DSA/tree/master/0853-car-fleet) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Dannyyy7/DSA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +339,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Dannyyy7/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Dannyyy7/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dannyyy7/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/Dannyyy7/DSA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
