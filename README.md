@@ -240,6 +240,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Dannyyy7/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Dannyyy7/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Dannyyy7/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/Dannyyy7/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Dannyyy7/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dannyyy7/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dannyyy7/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -332,6 +333,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dannyyy7/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/Dannyyy7/DSA/tree/main/0050-powx-n/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/Dannyyy7/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Dannyyy7/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dannyyy7/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Greedy
