@@ -20,6 +20,7 @@
 | [0054-spiral-matrix](https://github.com/Dannyyy7/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Dannyyy7/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dannyyy7/DSA/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dannyyy7/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Dannyyy7/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dannyyy7/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Dannyyy7/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -187,6 +188,7 @@
 | [0020-valid-parentheses](https://github.com/Dannyyy7/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Dannyyy7/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Dannyyy7/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dannyyy7/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/Dannyyy7/DSA/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Dannyyy7/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Dannyyy7/DSA/tree/master/0316-remove-duplicate-letters) |
@@ -327,6 +329,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Dannyyy7/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dannyyy7/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Dannyyy7/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/Dannyyy7/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Dannyyy7/DSA/tree/master/0853-car-fleet) |
@@ -415,6 +418,7 @@
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dannyyy7/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Dannyyy7/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Design
 | Problem Name | Difficulty |
