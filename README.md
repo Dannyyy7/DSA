@@ -49,6 +49,7 @@
 | [1528-shuffle-string](https://github.com/Dannyyy7/DSA/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dannyyy7/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dannyyy7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Dannyyy7/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0070-climbing-stairs](https://github.com/Dannyyy7/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Dannyyy7/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Dannyyy7/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
