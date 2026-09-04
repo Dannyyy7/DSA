@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Dannyyy7/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Dannyyy7/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Dannyyy7/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/Dannyyy7/DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dannyyy7/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dannyyy7/DSA/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Dannyyy7/DSA/tree/master/0031-next-permutation) |
@@ -83,6 +84,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dannyyy7/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Dannyyy7/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Dannyyy7/DSA/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dannyyy7/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dannyyy7/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dannyyy7/DSA/tree/main/0027-remove-element/) | Easy |
@@ -142,6 +144,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Dannyyy7/DSA/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Dannyyy7/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Dannyyy7/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dannyyy7/DSA/tree/master/0088-merge-sorted-array) |
