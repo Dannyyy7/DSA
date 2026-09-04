@@ -20,6 +20,7 @@
 | [0049-group-anagrams](https://github.com/Dannyyy7/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Dannyyy7/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Dannyyy7/DSA/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Dannyyy7/DSA/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Dannyyy7/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dannyyy7/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dannyyy7/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -118,6 +119,7 @@
 | [0013-roman-to-integer](https://github.com/Dannyyy7/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Dannyyy7/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Dannyyy7/DSA/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/Dannyyy7/DSA/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Dannyyy7/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Dannyyy7/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
