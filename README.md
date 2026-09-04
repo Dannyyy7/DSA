@@ -124,6 +124,7 @@
 | [0070-climbing-stairs](https://github.com/Dannyyy7/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Dannyyy7/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Dannyyy7/DSA/tree/master/0279-perfect-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dannyyy7/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dannyyy7/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
@@ -300,6 +301,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dannyyy7/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Dannyyy7/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Dannyyy7/DSA/tree/main/0198-house-robber/) | Medium |
+| [0279-perfect-squares](https://github.com/Dannyyy7/DSA/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/Dannyyy7/DSA/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Dannyyy7/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Simulation
@@ -388,6 +390,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Dannyyy7/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dannyyy7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0279-perfect-squares](https://github.com/Dannyyy7/DSA/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
@@ -464,4 +467,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dannyyy7/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Dannyyy7/DSA/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Dannyyy7/DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
