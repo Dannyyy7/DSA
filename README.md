@@ -15,6 +15,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Dannyyy7/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dannyyy7/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Dannyyy7/DSA/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Dannyyy7/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Dannyyy7/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Dannyyy7/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Dannyyy7/DSA/tree/main/0049-group-anagrams/) | Medium |
@@ -347,6 +348,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dannyyy7/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Dannyyy7/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/Dannyyy7/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/Dannyyy7/DSA/tree/master/0078-subsets) |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
