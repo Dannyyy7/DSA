@@ -136,6 +136,7 @@
 | [0279-perfect-squares](https://github.com/Dannyyy7/DSA/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Dannyyy7/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dannyyy7/DSA/tree/main/0342-power-of-four/) | Easy |
+| [0412-fizz-buzz](https://github.com/Dannyyy7/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/Dannyyy7/DSA/tree/main/0507-perfect-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Dannyyy7/DSA/tree/main/0728-self-dividing-numbers/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Dannyyy7/DSA/tree/master/3870-count-commas-in-range) |
@@ -203,6 +204,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Dannyyy7/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dannyyy7/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Dannyyy7/DSA/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Dannyyy7/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Dannyyy7/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Dannyyy7/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/Dannyyy7/DSA/tree/master/0481-magical-string) |
@@ -330,6 +332,7 @@
 | [0054-spiral-matrix](https://github.com/Dannyyy7/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Dannyyy7/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Dannyyy7/DSA/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/Dannyyy7/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dannyyy7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Manacher
 | Problem Name | Difficulty |
