@@ -130,6 +130,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Dannyyy7/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/Dannyyy7/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dannyyy7/DSA/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/Dannyyy7/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Dannyyy7/DSA/tree/master/0279-perfect-squares) |
 | [3870-count-commas-in-range](https://github.com/Dannyyy7/DSA/tree/master/3870-count-commas-in-range) |
@@ -153,6 +154,7 @@
 | [0067-add-binary](https://github.com/Dannyyy7/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Dannyyy7/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Dannyyy7/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Dannyyy7/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dannyyy7/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
@@ -379,6 +381,7 @@
 | [0050-powx-n](https://github.com/Dannyyy7/DSA/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Dannyyy7/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Dannyyy7/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Dannyyy7/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Dannyyy7/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Dannyyy7/DSA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Greedy
