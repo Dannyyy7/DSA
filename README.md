@@ -134,6 +134,7 @@
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Dannyyy7/DSA/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Dannyyy7/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Dannyyy7/DSA/tree/main/0342-power-of-four/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Dannyyy7/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dannyyy7/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dannyyy7/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -158,6 +159,7 @@
 | [0231-power-of-two](https://github.com/Dannyyy7/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dannyyy7/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0342-power-of-four](https://github.com/Dannyyy7/DSA/tree/main/0342-power-of-four/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -385,6 +387,7 @@
 | [0231-power-of-two](https://github.com/Dannyyy7/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Dannyyy7/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Dannyyy7/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Dannyyy7/DSA/tree/main/0342-power-of-four/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Dannyyy7/DSA/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
