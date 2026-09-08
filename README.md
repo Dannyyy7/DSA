@@ -136,6 +136,7 @@
 | [0326-power-of-three](https://github.com/Dannyyy7/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dannyyy7/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0507-perfect-number](https://github.com/Dannyyy7/DSA/tree/main/0507-perfect-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/Dannyyy7/DSA/tree/main/0728-self-dividing-numbers/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Dannyyy7/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dannyyy7/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dannyyy7/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
