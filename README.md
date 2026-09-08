@@ -131,6 +131,7 @@
 | [0189-rotate-array](https://github.com/Dannyyy7/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dannyyy7/DSA/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Dannyyy7/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Dannyyy7/DSA/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Dannyyy7/DSA/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Dannyyy7/DSA/tree/master/0326-power-of-three) |
@@ -328,6 +329,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Dannyyy7/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Dannyyy7/DSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Dannyyy7/DSA/tree/main/0258-add-digits/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dannyyy7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Manacher
 | Problem Name | Difficulty |
@@ -515,4 +517,8 @@
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Dannyyy7/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Dannyyy7/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Dannyyy7/DSA/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
