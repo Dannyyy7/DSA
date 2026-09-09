@@ -197,6 +197,7 @@
 | [0058-length-of-last-word](https://github.com/Dannyyy7/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Dannyyy7/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Dannyyy7/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Dannyyy7/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Dannyyy7/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Dannyyy7/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Dannyyy7/DSA/tree/main/0205-isomorphic-strings/) | Easy |
@@ -321,6 +322,7 @@
 | [0070-climbing-stairs](https://github.com/Dannyyy7/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Dannyyy7/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dannyyy7/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Dannyyy7/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Dannyyy7/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Dannyyy7/DSA/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/Dannyyy7/DSA/tree/master/0279-perfect-squares) |
@@ -368,6 +370,7 @@
 | [0022-generate-parentheses](https://github.com/Dannyyy7/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Dannyyy7/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/Dannyyy7/DSA/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Dannyyy7/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
