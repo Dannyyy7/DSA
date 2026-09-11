@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/Dannyyy7/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Dannyyy7/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Dannyyy7/DSA/tree/main/0039-combination-sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/Dannyyy7/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Dannyyy7/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Dannyyy7/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Dannyyy7/DSA/tree/main/0049-group-anagrams/) | Medium |
@@ -66,6 +67,7 @@
 | [0013-roman-to-integer](https://github.com/Dannyyy7/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dannyyy7/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Dannyyy7/DSA/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Dannyyy7/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Dannyyy7/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Dannyyy7/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Dannyyy7/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
