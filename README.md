@@ -78,6 +78,7 @@
 | [0205-isomorphic-strings](https://github.com/Dannyyy7/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Dannyyy7/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dannyyy7/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0264-ugly-number-ii](https://github.com/Dannyyy7/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Dannyyy7/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dannyyy7/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -135,6 +136,7 @@
 | [0231-power-of-two](https://github.com/Dannyyy7/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Dannyyy7/DSA/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Dannyyy7/DSA/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Dannyyy7/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Dannyyy7/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Dannyyy7/DSA/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Dannyyy7/DSA/tree/master/0326-power-of-three) |
@@ -266,6 +268,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Dannyyy7/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dannyyy7/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Dannyyy7/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0264-ugly-number-ii](https://github.com/Dannyyy7/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Dannyyy7/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Dannyyy7/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
@@ -333,6 +336,7 @@
 | [0131-palindrome-partitioning](https://github.com/Dannyyy7/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Dannyyy7/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Dannyyy7/DSA/tree/main/0198-house-robber/) | Medium |
+| [0264-ugly-number-ii](https://github.com/Dannyyy7/DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/Dannyyy7/DSA/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/Dannyyy7/DSA/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Dannyyy7/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
