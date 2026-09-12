@@ -136,6 +136,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Dannyyy7/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/Dannyyy7/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dannyyy7/DSA/tree/main/0202-happy-number/) | Easy |
+| [0224-basic-calculator](https://github.com/Dannyyy7/DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Dannyyy7/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Dannyyy7/DSA/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Dannyyy7/DSA/tree/master/0263-ugly-number) |
@@ -213,6 +214,7 @@
 | [0139-word-break](https://github.com/Dannyyy7/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Dannyyy7/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Dannyyy7/DSA/tree/main/0205-isomorphic-strings/) | Easy |
+| [0224-basic-calculator](https://github.com/Dannyyy7/DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Dannyyy7/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Dannyyy7/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dannyyy7/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -240,6 +242,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Dannyyy7/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dannyyy7/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Dannyyy7/DSA/tree/main/0155-min-stack/) | Medium |
+| [0224-basic-calculator](https://github.com/Dannyyy7/DSA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Dannyyy7/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Dannyyy7/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Dannyyy7/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -414,6 +417,7 @@
 | [0060-permutation-sequence](https://github.com/Dannyyy7/DSA/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/Dannyyy7/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Dannyyy7/DSA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Dannyyy7/DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Dannyyy7/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Dannyyy7/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Dannyyy7/DSA/tree/master/0326-power-of-three) |
