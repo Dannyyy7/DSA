@@ -430,6 +430,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Dannyyy7/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Dannyyy7/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Dannyyy7/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Dannyyy7/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dannyyy7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dannyyy7/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dannyyy7/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -439,6 +440,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Dannyyy7/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Dannyyy7/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Dannyyy7/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Dannyyy7/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dannyyy7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dannyyy7/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0133-clone-graph](https://github.com/Dannyyy7/DSA/tree/main/0133-clone-graph/) | Medium |
@@ -447,6 +449,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Dannyyy7/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Dannyyy7/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dannyyy7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dannyyy7/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0133-clone-graph](https://github.com/Dannyyy7/DSA/tree/main/0133-clone-graph/) | Medium |
@@ -458,6 +461,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Dannyyy7/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Dannyyy7/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Dannyyy7/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Dannyyy7/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dannyyy7/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dannyyy7/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dannyyy7/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
